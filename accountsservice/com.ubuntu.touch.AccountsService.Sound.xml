@@ -10,12 +10,12 @@
 
         <property name="IncomingCallSound" type="s" access="readwrite">
             <annotation name="org.freedesktop.Accounts.DefaultValue.String"
-                value="/usr/share/sounds/ubuntu/ringtones/Ubuntu.ogg"/>
+                value="/usr/share/sounds/ubuntu/ringtones/UBports.ogg"/>
         </property>
 
         <property name="IncomingMessageSound" type="s" access="readwrite">
             <annotation name="org.freedesktop.Accounts.DefaultValue.String"
-                value="/usr/share/sounds/ubuntu/notifications/Xylo.ogg"/>
+                value="/usr/share/sounds/ubuntu/notifications/Sintesis.ogg"/>
         </property>
 
         <property name="IncomingCallVibrate" type="b" access="readwrite">
