@@ -19,7 +19,7 @@
         </property>
 
 	<property name="LastRunningPlayer" type="s" access="readwrite">
-             <annotation name="org.freedesktop.Accounts.DefaultValue.String" 
+             <annotation name="org.freedesktop.Accounts.DefaultValue.String"
                 value=""/>
         </property>
 
