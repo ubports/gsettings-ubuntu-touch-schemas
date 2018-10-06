@@ -1,3 +1,9 @@
+gsettings-ubuntu-touch-schemas (0.0.9+ubports0) xenial; urgency=medium
+
+  * Change default ringtones
+
+ -- Dalton Durst <dalton@ubports.com>  Fri, 5 Oct 2018 21:54:57 -0500
+
 gsettings-ubuntu-touch-schemas (0.0.8+ubports) xenial; urgency=medium
 
   * Imported to UBports
