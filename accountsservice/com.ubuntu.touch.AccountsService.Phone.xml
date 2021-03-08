@@ -15,6 +15,10 @@
             <annotation name="org.freedesktop.Accounts.DefaultValue" value="true"/>
         </property>
 
+        <property name="MmsAutoRetrieveEnabled" type="b" access="readwrite">
+            <annotation name="org.freedesktop.Accounts.DefaultValue" value="true"/>
+        </property>
+
         <property name="MmsGroupChatEnabled" type="b" access="readwrite">
             <annotation name="org.freedesktop.Accounts.DefaultValue" value="false"/>
         </property>
