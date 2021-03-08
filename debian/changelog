@@ -1,3 +1,9 @@
+gsettings-ubuntu-touch-schemas (0.0.10+ubports0) xenial; urgency=medium
+
+  * Add an option to enable/disable MMS auto-retrieval
+
+ -- Lionel Duboeuf <lduboeuf@ouvaton.org>  Sun, 7 Mar 2021 21:54:57 +0200
+
 gsettings-ubuntu-touch-schemas (0.0.9+ubports0) xenial; urgency=medium
 
   * Change default ringtones
